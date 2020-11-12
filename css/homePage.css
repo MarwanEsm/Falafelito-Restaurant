@@ -4,7 +4,7 @@ h1 { font-family: Verdana, Geneva, Tahoma, sans-serif;
     letter-spacing: 0.5cm;
     text-decoration: underline;
     text-shadow: 8px 8px 8px #67ce37;
-    background-image:url("falafel1.jpg");
+    background-image:url("../Photos/falafel1.jpg");
     height: 100px;
     color:white;
     text-align: center;
