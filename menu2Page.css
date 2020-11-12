@@ -1,0 +1,77 @@
+.paregraph { display: grid;
+  grid-template-columns:repeat(2,1fr 2fr 1fr) ;
+   gap: 10px;
+   padding-left: 40px;
+  }
+
+  .paregraph > div { display: grid;
+    background-color: gray;
+    border: solid black 5px;
+    align-self: center;
+   
+   
+  }
+
+
+.special { margin:30px;
+  background-image:url(Example.jpg);
+   
+  }
+
+  .text { margin:50px;
+  text-decoration: underline;
+  position: absolute;
+  border: green solid 30px;
+  
+   
+  }
+
+
+.paregraph h4 {border: red solid 7px;
+  text-align: center;
+  padding: 4px;
+   
+  }
+  .logo { display: grid;
+    grid-template-columns: 2fr 1fr 1fr 2fr ;   
+    gap: 10px;
+   padding-top:70px;
+   padding-right: 30px;
+  
+  }
+
+    .logo > div { display: grid;
+    background-color: gray;
+    border: solid black 5px;
+     align-self: center;
+     justify-content: center;
+     
+   
+  }
+
+  p { font-size: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;  
+text-align: center;
+}
+
+.experment { position: relative;
+  text-align: center;
+  
+}
+
+#photo {border: yellow solid 6px;
+}
+
+#navigation {text-decoration: none;
+  text-align: center;
+  align-self: center;
+  word-spacing: 20px;
+  font-size: 18px;
+  font-family: monospace;
+  background-image: url(menu1.jpeg);
+  padding: 20px;
+  border: black dotted 4px;
+
+}
+
+

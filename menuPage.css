@@ -1,0 +1,129 @@
+h1 { font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    letter-spacing: 0.5cm;
+    text-decoration: underline;
+    text-shadow: 8px 8px 8px #67ce37;
+    background-image:url("falafel1.jpg");
+    height: 100px;
+    color:white;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+
+.topnav{font-size: 17px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   text-align: center;
+   padding-right: 1.2cm;
+   background: rgb(128, 189, 128);
+   padding: 10px;
+   margin: auto;
+   font-style: italic;
+   font-weight: bolder; 
+   border-style: solid gray;
+   
+}
+
+a:hover {font-size: 20px;
+}
+
+.topnav a {padding: 18px;
+    text-decoration: none;
+    color: white;
+}
+
+.menu{pointer-events: none;
+  cursor: default;
+    
+}
+
+
+p {font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-shadow: 1px 1px 1px #919191,
+        1px 2px 1px #919191,
+        1px 3px 1px #919191,
+        1px 4px 1px #919191,
+        1px 5px 1px #919191,
+        1px 6px 1px #919191,
+        1px 7px 1px #919191,
+        1px 8px 1px #919191,
+        1px 9px 1px #919191,
+        1px 10px 1px #919191,
+    1px 18px 6px rgba(16,16,16,0.4),
+    1px 22px 10px rgba(16,16,16,0.2),
+    1px 25px 35px rgba(16,16,16,0.2),
+    1px 30px 60px rgba(16,16,16,0.4);
+    -webkit-transition: all 3s ease-in;
+    
+}
+
+.firstMenu { display: flex;
+    justify-content: space-around;
+    width: 100%;
+    text-align: center;
+}
+
+.menu1 img {border: #67ce37 solid 2px;
+    padding: 2px;
+    
+    
+}
+
+.menu2 img {border: #67ce37 solid 2px; 
+    padding: 2px;
+}
+
+.doner img {border: #67ce37 solid 2px; 
+    padding: 2px;
+}
+
+.firstMenu, h3 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-variant: small-caps;
+    text-decoration: overline;
+
+}
+
+.firstMenu img:hover {-webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.secondMenu { display: flex;
+    justify-content: space-around;
+    width: 100%;
+    text-align: center;
+}
+
+.menu3 img {border: #67ce37 solid 2px;
+    padding: 2px;
+    
+    
+}
+
+.menu4 img {border: #67ce37 solid 2px; 
+    padding: 2px;
+}
+
+.menu5 img {border: #67ce37 solid 2px; 
+    padding: 2px;
+}
+
+.secondMenu img:hover {-webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.secondMenu, h3 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-variant: small-caps;
+    text-decoration: overline;
+
+}
+
+
+
+
+

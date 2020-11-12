@@ -1,0 +1,169 @@
+h1 { font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    letter-spacing: 0.5cm;
+    text-decoration: underline;
+    text-shadow: 8px 8px 8px #67ce37;
+    background-image:url("falafel1.jpg");
+    height: 100px;
+    color:white;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+
+.topnav{font-size: 17px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   text-align: center;
+   padding-right: 1.2cm;
+   background: rgb(128, 189, 128);
+   padding: 10px;
+   margin: auto;
+   font-style: italic;
+   font-weight: bolder; 
+   border-style: solid gray;
+   
+}
+
+a:hover {font-size: 20px;
+  text-decoration: underline;
+}
+
+.reservation{pointer-events: none;
+  cursor: default;
+    
+}
+
+.image-reservation {border: double gray 3px;
+    
+}
+
+.topnav a {padding: 18px;
+    text-decoration: none;
+    color: white;
+}
+
+.resevdetails{ position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color:rgb(216, 133, 65);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  padding: 20px;
+  border: burlywood solid 5px;
+  border-radius: 5px;
+}
+
+.resevdetails h2{text-align: center; 
+
+}
+
+.container {
+  position: relative;
+}
+
+
+
+.button{text-align: center;
+    border-radius: 5px;
+   
+}
+
+.resevdetails input {
+    border: #000;
+    padding: 10px;
+    font-size: 15px;
+    width: 27%;
+    border-radius: 5px;
+    
+  }
+
+.names {display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    align-items: center;
+
+    }
+
+.contactdetails{display: flex;
+    justify-content: space-between;
+    margin: 19px;
+    align-items: center;
+
+    }
+.resevdetails h2 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+
+    }
+
+
+  .special select { border: #000;
+    padding: 10px;
+    font-size: 15px;
+    width: 31%;
+    border-radius: 5px;
+}
+
+.reservdate {display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    }
+
+    .reservdate select { border: #000;
+    padding: 10px;
+    font-size: 15px;
+    width: 20%;
+    border-radius: 5px;
+}
+
+    .special {display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    align-items: center;
+
+    }
+
+    .special input {
+    border: #000;
+    padding: 10px;
+    font-size: 15px;
+    width: 28%;
+    border-radius: 5px;
+    
+  }
+
+   .termsAndconditions{display: flex;
+    justify-content: center;
+    align-items: center;
+
+    }
+
+ .termsAndconditions input {
+    border: #000;
+    padding: 10px;
+    font-size: 15px;
+    width: 10%;
+    border-radius: 5px;
+    
+  }
+
+  .termsAndconditions a { text-decoration: underline;
+    font-size: 15px;
+    padding: 20px;
+    color: white;
+  }
+
+  button {text-align: center;
+    font-size: 15px;
+    background-color: rgb(133, 121, 121);
+    border: white solid 2px;
+    padding: 7px;
+    color: white;
+}
+    
+   
+  
+
+

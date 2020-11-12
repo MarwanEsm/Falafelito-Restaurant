@@ -1,0 +1,89 @@
+
+h1 { font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    letter-spacing: 0.5cm;
+    text-decoration: underline;
+    text-shadow: 8px 8px 8px #67ce37;
+    background-image:url("falafel1.jpg");
+    height: 100px;
+    color:white;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+
+.topnav{font-size: 17px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   text-align: center;
+   padding-right: 1.2cm;
+   background: rgb(128, 189, 128);
+   padding: 10px;
+   margin: auto;
+   font-style: italic;
+   font-weight: bolder; 
+   border-style: solid gray;
+   
+}
+
+.topnav a:hover {font-size: 20px;
+}
+
+.home {pointer-events: none;
+  cursor: default;
+    
+    
+}
+
+
+.topnav a {padding: 18px;
+    text-decoration: none;
+    color: white;
+}
+
+p { font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+padding-left: 100px;
+padding-right: 100px;
+padding-top: 10px;
+padding-bottom: 10px;
+font-size: 20px;
+font-style: oblique;
+text-shadow: 0 0 5px hsl(128, 100%, 50%), 0 0 5px #00ff62;
+
+}
+
+h4{font-size: 15px;
+    width: 70%;
+    text-align:center;
+
+}
+
+.flex4 {display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 100px;
+}
+
+
+.flex4 img {border: 5px solid rgb(156, 218, 156);
+
+}
+
+.flex4 img:hover {-webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+
+}
+
+.flex4, h4{ font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+
+}
+
+.flex4 a{ text-decoration: none;
+    font-weight: bold;
+
+}
+
+
+
